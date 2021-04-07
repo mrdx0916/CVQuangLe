@@ -1,0 +1,11 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/src/Components/BT_GioHang_Redux
+/src/Components/BT_GioHang_StateVsProps
+/src/Components/BT_oan_tu_xi
+/src/Components/BT_XucXac
+/src/Components/FormValidate
+/src/data
+/src/Redux
